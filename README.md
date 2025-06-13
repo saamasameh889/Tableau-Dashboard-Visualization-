@@ -47,7 +47,4 @@ Bar chart displaying total value of orders per year based on quantity and price,
 - Identify top-selling product types  
 - Support business decisions with data
 
-## Sample Output Screenshots
-
-<img width="1440" alt="Screenshot" src="https://github.com/user-attachments/assets/737a1249-48ce-453e-bfa8-ec83e242ca70" />
 
